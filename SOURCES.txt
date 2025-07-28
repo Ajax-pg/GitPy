@@ -1,0 +1,10 @@
+LICENCE
+README.md
+setup.py
+GitPy/__init__.py
+GitPy/gitpy.py
+GitPy.egg-info/PKG-INFO
+GitPy.egg-info/SOURCES.txt
+GitPy.egg-info/dependency_links.txt
+GitPy.egg-info/requires.txt
+GitPy.egg-info/top_level.txt
